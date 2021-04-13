@@ -1,0 +1,74 @@
+<resources>
+    <string name="app_name">My Bucket</string>
+    <string name="bucketlist">BucketList</string>
+    <string name="categories">Categories</string>
+    <string name="profile_name">Hi, </string>
+    <string name="games">Games</string>
+    <string name="movies">Movies</string>
+    <string name="travel">Travel</string>
+    <string name="food">Food</string>
+    <string name="books">Books</string>
+    <string name="series">Series</string>
+    <string name="fitness">Fitness</string>
+    <string name="career">Career</string>
+    <string name="contribution">Contribute</string>
+    <string name="creativity">Creativity</string>
+    <string name="relationship">Relationship</string>
+    <string name="adventures">Adventures</string>
+    <string name="others">others</string>
+    <string name="finances">finances</string>
+    <string name="home">Home</string>
+    <string name="toaddgamedetails">toAddGameDetails</string>
+    <string name="upload_picture">upload picture</string>
+    <string name="about_game">Short Description…</string>
+    <string name="game_name">Name…</string>
+    <string name="game">Game:</string>
+    <string name="movie_details">Movie Details</string>
+    <string name="movie">Movie:</string>
+    <string name="traveldetails">TravelDetails</string>
+    <string name="place_name">Place Name:</string>
+    <string name="food_name">Food name:</string>
+    <string name="book_name">Book Name:</string>
+    <string name="webseries_name">WebSeries Name:</string>
+    <string name="career_name">Career Name:</string>
+    <string name="contribute_name">Contribute Name:</string>
+    <string name="fitness_name">Fitness Name:</string>
+    <string name="creativity_name">Creativity Name:</string>
+    <string name="adventure_name">Adventure Name:</string>
+    <string name="to_change_profile_name">To Change Profile Name:</string>
+    <string name="user_name">User name</string>
+    <string name="user_profile_name">user profile name</string>
+    <string name="about_us">About us</string>
+    <string name="change_main_background">Change main background</string>
+    <string name="description_about_app">Description About App.</string>
+    <string name="description_about_app_close">Close App Description</string>
+    <string name="about_bucket_app">About Bucket App</string>
+    <string name="shortDescriptionaboutApp">it is a bucket App where you can write a different type of wish list which you want to do in your life.</string>
+    <string name="flaticon">All icon are taken from Flaticon</string>
+    <string name="attribute_to_author">Attribute to author</string>
+    
+    <string name="messageWithLinkOne"><a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a></string>
+    <string name="icons_made_by_mynamepong">Icons made by mynamepong</string>
+
+    <string name="messageWithLinkTwo"><a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a></string>
+    <string name="icons_made_by_iconixar">Icons made by iconixar</string>
+
+    <string name="messageWithLinkThree"><a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a></string>
+    <string name="icon_made_by_wanicon">Icon made by wanicon</string>
+
+    <string name="messageWithLinkFour"><a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a></string>
+    <string name="icon_made_by_freepik">Icon made by Freepik</string>
+
+    <string name="messageWithLinkFive"><a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a></string>
+    <string name="icon_made_by_linector">Icon made by Linector</string>
+
+    <string name="messageWithLinkSix"><a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a></string>
+
+<string name="messageWithLinkSeven"><a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a></string>
+    <string name="icon_made_by_ultimatearm">Icon made by ultimatearm</string>
+    <string name="icon_made_by_eucalyp">Icon made by Eucalyp</string>
+    <string name="save">Save</string>
+    <string name="how_to_use_app">How To use App.</string>
+    <string name="to_delete_a_bucket_item_just_swap_left_or_right">To Delete A Bucket Item Just Swap LEFT or RIGHT</string>
+
+</resources>

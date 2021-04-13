@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.google.android.material.card.MaterialCardView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_margin="8dp"
+    app:cardBackgroundColor="@color/bucket"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    app:cardCornerRadius="8dp"
+    app:cardElevation="8dp">
+
+    <RelativeLayout
+        android:layout_margin="16dp"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+
+        <TextView
+            android:layout_marginTop="16dp"
+            android:id="@+id/text"
+            android:textColor="@color/black"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/place_name" />
+
+        <TextView
+            android:text=""
+            android:textColor="@color/black"
+            android:id="@+id/place_name"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_toEndOf="@id/text"
+            android:layout_marginTop="8dp"
+            android:layout_marginStart="16dp"
+            android:textSize="24sp"/>
+
+        <View
+            android:layout_marginTop="4dp"
+            android:layout_below="@id/text"
+            android:layout_width="match_parent"
+            android:layout_height=".5dp"
+            android:background="#56568C" />
+        <TextView
+            android:id="@+id/about_place"
+            android:textColor="@color/black"
+            android:textSize="20sp"
+            android:layout_width="wrap_content"
+            android:layout_below="@id/text"
+            android:layout_marginTop="16dp"
+            android:layout_height="wrap_content"/>
+
+    </RelativeLayout>
+</com.google.android.material.card.MaterialCardView>
